@@ -34,3 +34,10 @@ Assignment 2 (3/26/20): Notes/answers for Exam Objectives 1.3
 ### Security+
 
 [Exam Objectives](./security_plus/comptia_security_objectives.pdf)
+
+
+----
+
+### Resources
+
+[SANS TCP/IP Cheatsheet](./resources/sans_tcpip_cheatsheet.pdf)
