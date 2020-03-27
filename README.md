@@ -40,4 +40,6 @@ Assignment 2 (3/26/20): Notes/answers for Exam Objectives 1.3
 
 ### Resources
 
+[Links](./LINKS.md)
+
 [SANS TCP/IP Cheatsheet](./resources/sans_tcpip_cheatsheet.pdf)
