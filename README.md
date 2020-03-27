@@ -26,7 +26,7 @@ Assignment 2 (3/26/20): Notes/answers for Exam Objectives 1.3
 
 [AMA - 3/25/2020](https://www.twitch.tv/videos/575616228)
 
-[Session 2 - 3/26/2020]()
+[Session 2 - 3/26/2020](https://www.twitch.tv/videos/576229301?)
 
 
 ----
