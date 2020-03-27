@@ -18,7 +18,7 @@ Discord - [https://discord.gg/FzVthd6](https://discord.gg/FzVthd6) - this link s
 
 Assignment 1 (3/24/2020): Notes/answers for Exam Objectives 1.1 and 1.2
 
-Assignment 2 (3/26/20): Notes/answers for Exam Objectives 1.3
+Assignment 2 (3/26/20): Notes/answers for Exam Objectives 1.3 and 1.4
 
 #### Session Videos
 
