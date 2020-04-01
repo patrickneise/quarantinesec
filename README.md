@@ -30,9 +30,9 @@ _Assignment 3 (3/31/2020):_ Download/Install Wireshark and become familar with h
 
 [AMA - 3/25/2020](https://www.twitch.tv/videos/575616228)
 
-[Session 2 - 3/26/2020](https://www.twitch.tv/videos/576229301?)
+[Session 2 - 3/26/2020](https://www.twitch.tv/videos/576229301)
 
-[Session 3 - 3/31/2020]()
+[Session 3 - 3/31/2020](https://www.twitch.tv/videos/580190632)
 
 
 ----
