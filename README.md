@@ -20,7 +20,7 @@ Assignment 1 (3/24/2020): Notes/answers for Exam Objectives 1.1 and 1.2
 
 Assignment 2 (3/26/2020): Notes/answers for Exam Objectives 1.3 and 1.4
 
-Assignment 3 (3/31/2020): Download/Install Wireshark and become familar with how to use.
+Assignment 3 (3/31/2020): Download/Install Wireshark and become familar with how to use. Notes/answers for Exam Objectives 1.5 and 1.6
 
 #### Session Videos
 
