@@ -18,7 +18,9 @@ Discord - [https://discord.gg/FzVthd6](https://discord.gg/FzVthd6) - this link s
 
 Assignment 1 (3/24/2020): Notes/answers for Exam Objectives 1.1 and 1.2
 
-Assignment 2 (3/26/20): Notes/answers for Exam Objectives 1.3 and 1.4
+Assignment 2 (3/26/2020): Notes/answers for Exam Objectives 1.3 and 1.4
+
+Assignment 3 (3/31/2020): Download/Install Wireshark and become familar with how to use.
 
 #### Session Videos
 
@@ -27,6 +29,8 @@ Assignment 2 (3/26/20): Notes/answers for Exam Objectives 1.3 and 1.4
 [AMA - 3/25/2020](https://www.twitch.tv/videos/575616228)
 
 [Session 2 - 3/26/2020](https://www.twitch.tv/videos/576229301?)
+
+[Session 3 - 3/31/2020]()
 
 
 ----
