@@ -16,6 +16,8 @@ Discord - [https://discord.gg/FzVthd6](https://discord.gg/FzVthd6) - this link s
 
 #### Assignments
 
+> NOTE: Homework assignements are for YOU, there is nothing to turn in for each session.  With that said, there may be a review of your homework progress at some point.
+
 Assignment 1 (3/24/2020): Notes/answers for Exam Objectives 1.1 and 1.2
 
 Assignment 2 (3/26/2020): Notes/answers for Exam Objectives 1.3 and 1.4
