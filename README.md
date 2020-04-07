@@ -26,6 +26,8 @@ _Assignment 3 (3/31/2020):_ Download/Install Wireshark and become familar with h
 
 _Assignment 4 (4/2/2020):_ Install and get familiar with Snort. Install Notes/answers for Exam Objectives 1.7 and 1.8
 
+_Assignment 5 (4/7/2020):_ Notes/answers for 2.1 and 2.2
+
 #### Session Videos
 
 [Session 1 - 3/24/2020](https://www.twitch.tv/videos/574662142)
@@ -37,6 +39,8 @@ _Assignment 4 (4/2/2020):_ Install and get familiar with Snort. Install Notes/an
 [Session 3 - 3/31/2020](https://www.twitch.tv/videos/580190632)
 
 [Session 4 - 4/2/2020](https://www.twitch.tv/videos/581810421?)
+
+[Session 5 - 4/7/2020](https://www.twitch.tv/videos/586009085?)
 
 ----
 
