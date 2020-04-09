@@ -30,6 +30,7 @@ _Assignment 5 (4/7/2020):_ Notes/answers for 2.1 and 2.2
 
 _Assignment 6 (4/9/2020):_ Notes/answers for 
 
+
 #### Session Videos
 
 [YouTube Channel](https://www.youtube.com/channel/UCzWt6E0J-_kjHcMATu9UAmw)
@@ -47,6 +48,7 @@ _Assignment 6 (4/9/2020):_ Notes/answers for
 [Session 5 - 4/7/2020](https://www.youtube.com/watch?v=lsRHCA0tSVM)
 
 [Session 6 - 4/9/2020]()
+
 ----
 
 ### Security+
