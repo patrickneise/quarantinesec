@@ -28,20 +28,25 @@ _Assignment 4 (4/2/2020):_ Install and get familiar with Snort. Install Notes/an
 
 _Assignment 5 (4/7/2020):_ Notes/answers for 2.1 and 2.2
 
+_Assignment 6 (4/9/2020):_ Notes/answers for 
+
 #### Session Videos
 
-[Session 1 - 3/24/2020](https://www.twitch.tv/videos/574662142)
+[YouTube Channel](https://www.youtube.com/channel/UCzWt6E0J-_kjHcMATu9UAmw)
 
-[AMA - 3/25/2020](https://www.twitch.tv/videos/575616228)
+[Session 1 - 3/24/2020](https://www.youtube.com/watch?v=-Np7GNVb_Mk)
+
+[AMA - 3/25/2020](https://www.youtube.com/watch?v=Zm2B8eATw40)
 
 [Session 2 - 3/26/2020](https://www.twitch.tv/videos/576229301)
 
 [Session 3 - 3/31/2020](https://www.twitch.tv/videos/580190632)
 
-[Session 4 - 4/2/2020](https://www.twitch.tv/videos/581810421?)
+[Session 4 - 4/2/2020](https://www.youtube.com/watch?v=SMNfY02sRP4&t)
 
-[Session 5 - 4/7/2020](https://www.twitch.tv/videos/586009085?)
+[Session 5 - 4/7/2020](https://www.youtube.com/watch?v=lsRHCA0tSVM)
 
+[Session 6 - 4/9/2020]()
 ----
 
 ### Security+
