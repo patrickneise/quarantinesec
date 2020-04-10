@@ -28,7 +28,7 @@ _Assignment 4 (4/2/2020):_ Install and get familiar with Snort. Install Notes/an
 
 _Assignment 5 (4/7/2020):_ Notes/answers for 2.1 and 2.2
 
-_Assignment 6 (4/9/2020):_ Notes/answers for 
+_Assignment 6 (4/9/2020):_ Notes/answers for 2.3 and 2.4
 
 
 #### Session Videos
