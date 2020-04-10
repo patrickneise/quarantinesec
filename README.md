@@ -48,7 +48,7 @@ _Assignment 6 (4/9/2020):_ Notes/answers for 2.3 and 2.4
 [Session 5 - 4/7/2020](https://www.youtube.com/watch?v=lsRHCA0tSVM)
 
 [Session 6 - 4/9/2020]()
-[Session 6 - Whiteboard](../whiteboards/09APR2020_whiteboard.excalidraw)
+[Session 6 - Whiteboard](./whiteboards/09APR2020_whiteboard.excalidraw)
 
 ----
 
