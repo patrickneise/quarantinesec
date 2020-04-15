@@ -30,6 +30,7 @@ _Assignment 5 (4/7/2020):_ Notes/answers for 2.1 and 2.2
 
 _Assignment 6 (4/9/2020):_ Notes/answers for 2.3 and 2.4
 
+_Assignment 7 (4/14/2020):_ Notes/answers for 2.5 and 3.1. Download and install [Packet Tracer](https://www.netacad.com/courses/packet-tracer)
 
 #### Session Videos
 
@@ -39,16 +40,18 @@ _Assignment 6 (4/9/2020):_ Notes/answers for 2.3 and 2.4
 
 [AMA - 3/25/2020](https://www.youtube.com/watch?v=Zm2B8eATw40)
 
-[Session 2 - 3/26/2020](https://www.twitch.tv/videos/576229301)
+[Session 2 - 3/26/2020](https://www.youtube.com/watch?v=lsRHCA0tSVM)
 
-[Session 3 - 3/31/2020](https://www.twitch.tv/videos/580190632)
+[Session 3 - 3/31/2020](https://www.youtube.com/watch?v=2UVR_oQm4f8)
 
 [Session 4 - 4/2/2020](https://www.youtube.com/watch?v=SMNfY02sRP4&t)
 
 [Session 5 - 4/7/2020](https://www.youtube.com/watch?v=lsRHCA0tSVM)
 
-[Session 6 - 4/9/2020]()
+[Session 6 - 4/9/2020](https://www.youtube.com/watch?v=2UVR_oQm4f8)
 [Session 6 - Whiteboard](./whiteboards/09APR2020_whiteboard.excalidraw)
+
+[Session 7 - 4/14/2020]()
 
 ----
 
