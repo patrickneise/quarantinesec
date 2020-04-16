@@ -51,7 +51,7 @@ _Assignment 7 (4/14/2020):_ Notes/answers for 2.5 and 3.1. Download and install 
 [Session 6 - 4/9/2020](https://www.youtube.com/watch?v=2UVR_oQm4f8)
 [Session 6 - Whiteboard](./whiteboards/09APR2020_whiteboard.excalidraw)
 
-[Session 7 - 4/14/2020]()
+[Session 7 - 4/14/2020](https://www.youtube.com/watch?v=upe8lEXmi-o)
 
 ----
 
