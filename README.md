@@ -8,7 +8,7 @@ Twitch Stream - [https://www.twitch.tv/marcusjcarey/](https://www.twitch.tv/marc
 
 Discord - [https://discord.gg/FzVthd6](https://discord.gg/FzVthd6) - this link set not to expire
 
-----
+---
 
 ### Network+
 
@@ -16,7 +16,7 @@ Discord - [https://discord.gg/FzVthd6](https://discord.gg/FzVthd6) - this link s
 
 #### Assignments
 
-> NOTE: Homework assignements are for YOU, there is nothing to turn in for each session.  With that said, there may be a review of your homework progress at some point.
+> NOTE: Homework assignements are for YOU, there is nothing to turn in for each session. With that said, there may be a review of your homework progress at some point.
 
 _Assignment 1 (3/24/2020):_ Notes/answers for Exam Objectives 1.1 and 1.2
 
@@ -31,6 +31,14 @@ _Assignment 5 (4/7/2020):_ Notes/answers for 2.1 and 2.2
 _Assignment 6 (4/9/2020):_ Notes/answers for 2.3 and 2.4
 
 _Assignment 7 (4/14/2020):_ Notes/answers for 2.5 and 3.1. Download and install [Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+
+_Assignment 8 (4/16/2020):_ Notes/answers for 3.2 and 3.3
+
+_Assignment 9 (4/21/2020):_ Notes/answers for 3.4 and 3.5
+
+_Assignment 10 (4/23/2020):_ Notes/answers for 4.1 and 4.2
+
+_Assignment 11 (4/28/2020):_ Notes/answers for 4.3 and 4.4
 
 #### Session Videos
 
@@ -53,14 +61,21 @@ _Assignment 7 (4/14/2020):_ Notes/answers for 2.5 and 3.1. Download and install 
 
 [Session 7 - 4/14/2020](https://www.youtube.com/watch?v=upe8lEXmi-o)
 
-----
+[Session 8 - 4/16/2020](https://www.twitch.tv/videos/594059538)
+
+[Session 9 - 4/21/2020](https://www.twitch.tv/videos/598816413)
+
+[Session 10 - 4/23/2020](https://www.twitch.tv/videos/600721706)
+
+[Session 11 - 4/28/2020](https://www.twitch.tv/videos/605566910)
+
+---
 
 ### Security+
 
 [Exam Objectives](./security_plus/comptia_security_objectives.pdf)
 
-
-----
+---
 
 ### Resources
 
